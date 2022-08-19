@@ -12,6 +12,8 @@ Bu projede Next.js ve tailwindcss Kullanılmıştır
  
 
 [canbalaman.dev](https://canbalaman.dev/) 
+
+
 ![WebSite](https://user-images.githubusercontent.com/65334876/185568636-0ea98719-b6bb-4271-901c-9a9b3a1fe61f.gif)
 
 
